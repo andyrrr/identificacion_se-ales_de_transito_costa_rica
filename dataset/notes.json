@@ -1,0 +1,305 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "25_fin_zona_escolar"
+    },
+    {
+      "id": 1,
+      "name": "25_velocidad_maxima"
+    },
+    {
+      "id": 2,
+      "name": "25_zona_escolar"
+    },
+    {
+      "id": 3,
+      "name": "3_lugares_verde"
+    },
+    {
+      "id": 4,
+      "name": "3_ubicaciones_cerca"
+    },
+    {
+      "id": 5,
+      "name": "40_fin_zona_escolar"
+    },
+    {
+      "id": 6,
+      "name": "40_peso_max"
+    },
+    {
+      "id": 7,
+      "name": "40_velocidad_maxima"
+    },
+    {
+      "id": 8,
+      "name": "4_altura_max"
+    },
+    {
+      "id": 9,
+      "name": "50_velocidad_maxima"
+    },
+    {
+      "id": 10,
+      "name": "60_fin_velocidad_restringida"
+    },
+    {
+      "id": 11,
+      "name": "60_velocidad_maxima"
+    },
+    {
+      "id": 12,
+      "name": "80_velocidad_maxima"
+    },
+    {
+      "id": 13,
+      "name": "alto"
+    },
+    {
+      "id": 14,
+      "name": "carretera_mal_estado"
+    },
+    {
+      "id": 15,
+      "name": "carril_lugar_verde_arriba"
+    },
+    {
+      "id": 16,
+      "name": "ceda"
+    },
+    {
+      "id": 17,
+      "name": "ciclovia"
+    },
+    {
+      "id": 18,
+      "name": "con_neblina"
+    },
+    {
+      "id": 19,
+      "name": "cruce_peatonal"
+    },
+    {
+      "id": 20,
+      "name": "cruz_roja"
+    },
+    {
+      "id": 21,
+      "name": "curva_derecha"
+    },
+    {
+      "id": 22,
+      "name": "curva_izquierda"
+    },
+    {
+      "id": 23,
+      "name": "curva_recta_derecha"
+    },
+    {
+      "id": 24,
+      "name": "curva_recta_izquierda"
+    },
+    {
+      "id": 25,
+      "name": "curvas_cerca"
+    },
+    {
+      "id": 26,
+      "name": "derecha_cerrada"
+    },
+    {
+      "id": 27,
+      "name": "derrumbes_dibujo"
+    },
+    {
+      "id": 28,
+      "name": "derrumbes_via"
+    },
+    {
+      "id": 29,
+      "name": "despacio"
+    },
+    {
+      "id": 30,
+      "name": "estacion_EV"
+    },
+    {
+      "id": 31,
+      "name": "fauna_cruzando"
+    },
+    {
+      "id": 32,
+      "name": "ferrerocarril_X"
+    },
+    {
+      "id": 33,
+      "name": "fin_velocidad_restringida"
+    },
+    {
+      "id": 34,
+      "name": "flecha_derecha"
+    },
+    {
+      "id": 35,
+      "name": "flecha_izquierda"
+    },
+    {
+      "id": 36,
+      "name": "gasolinera"
+    },
+    {
+      "id": 37,
+      "name": "hundimiento_via"
+    },
+    {
+      "id": 38,
+      "name": "interseccion_adelante"
+    },
+    {
+      "id": 39,
+      "name": "izquierda_cerrada"
+    },
+    {
+      "id": 40,
+      "name": "lugar_cerca"
+    },
+    {
+      "id": 41,
+      "name": "lugar_cerca_blanco"
+    },
+    {
+      "id": 42,
+      "name": "maquinaria_trabajando"
+    },
+    {
+      "id": 43,
+      "name": "no_derecha"
+    },
+    {
+      "id": 44,
+      "name": "no_estacionar"
+    },
+    {
+      "id": 45,
+      "name": "no_izquierda"
+    },
+    {
+      "id": 46,
+      "name": "no_peatones"
+    },
+    {
+      "id": 47,
+      "name": "no_via"
+    },
+    {
+      "id": 48,
+      "name": "no_virar_u"
+    },
+    {
+      "id": 49,
+      "name": "parada_bus"
+    },
+    {
+      "id": 50,
+      "name": "parada_taxi"
+    },
+    {
+      "id": 51,
+      "name": "parque_nacional"
+    },
+    {
+      "id": 52,
+      "name": "prioridad_peatones"
+    },
+    {
+      "id": 53,
+      "name": "puente_angosto"
+    },
+    {
+      "id": 54,
+      "name": "puente_figura"
+    },
+    {
+      "id": 55,
+      "name": "reductor"
+    },
+    {
+      "id": 56,
+      "name": "restaurante"
+    },
+    {
+      "id": 57,
+      "name": "rio"
+    },
+    {
+      "id": 58,
+      "name": "salida_maquinaria"
+    },
+    {
+      "id": 59,
+      "name": "semaforo_amarillo"
+    },
+    {
+      "id": 60,
+      "name": "semaforo_cerca"
+    },
+    {
+      "id": 61,
+      "name": "semaforo_verde"
+    },
+    {
+      "id": 62,
+      "name": "semafoto_rojo"
+    },
+    {
+      "id": 63,
+      "name": "silencio"
+    },
+    {
+      "id": 64,
+      "name": "solo_carga"
+    },
+    {
+      "id": 65,
+      "name": "solo_livianos"
+    },
+    {
+      "id": 66,
+      "name": "solo_motos"
+    },
+    {
+      "id": 67,
+      "name": "tope_carretera"
+    },
+    {
+      "id": 68,
+      "name": "una_via_adelante"
+    },
+    {
+      "id": 69,
+      "name": "velocidad_restringida_adelante"
+    },
+    {
+      "id": 70,
+      "name": "via_compartida"
+    },
+    {
+      "id": 71,
+      "name": "via_resbalosa"
+    },
+    {
+      "id": 72,
+      "name": "zona_escolar"
+    },
+    {
+      "id": 73,
+      "name": "zona_hospital_100"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
