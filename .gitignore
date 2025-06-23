@@ -1,3 +1,5 @@
 /imagenes/cargadas
 /imagenes/resultados
 /imagenes/cargadas
+*.mp4
+/yolov5/runs/detect
