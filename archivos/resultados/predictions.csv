@@ -1,0 +1,8 @@
+Image Name,Prediction,Confidence
+senal-26.png,3_ubicaciones_cerca,0.38
+senal-26.png,ceda,0.44
+senal-26.png,alto,0.54
+senal-28.png,3_ubicaciones_cerca,0.44
+senal-28.png,3_lugares_verde,0.47
+senal-28.png,ceda,0.67
+senal-47.png,alto,0.94

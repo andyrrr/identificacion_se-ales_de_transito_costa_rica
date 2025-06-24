@@ -1,0 +1,73 @@
+[
+    {
+        "imagen": "senal-26.png",
+        "senales": [
+            {
+                "nombre": "3_ubicaciones_cerca",
+                "confianza": 0.38,
+                "x_centro": 0.613654,
+                "y_centro": 0.528838,
+                "ancho": 0.0676839,
+                "alto": 0.128075
+            },
+            {
+                "nombre": "ceda",
+                "confianza": 0.44,
+                "x_centro": 0.611502,
+                "y_centro": 0.52799,
+                "ancho": 0.0633803,
+                "alto": 0.128075
+            },
+            {
+                "nombre": "alto",
+                "confianza": 0.54,
+                "x_centro": 0.486894,
+                "y_centro": 0.651399,
+                "ancho": 0.0176056,
+                "alto": 0.0441052
+            }
+        ]
+    },
+    {
+        "imagen": "senal-28.png",
+        "senales": [
+            {
+                "nombre": "3_ubicaciones_cerca",
+                "confianza": 0.44,
+                "x_centro": 0.553599,
+                "y_centro": 0.579305,
+                "ancho": 0.0516432,
+                "alto": 0.0916031
+            },
+            {
+                "nombre": "3_lugares_verde",
+                "confianza": 0.47,
+                "x_centro": 0.431925,
+                "y_centro": 0.214165,
+                "ancho": 0.0892019,
+                "alto": 0.122986
+            },
+            {
+                "nombre": "ceda",
+                "confianza": 0.67,
+                "x_centro": 0.554186,
+                "y_centro": 0.581001,
+                "ancho": 0.049687,
+                "alto": 0.0949958
+            }
+        ]
+    },
+    {
+        "imagen": "senal-47.png",
+        "senales": [
+            {
+                "nombre": "alto",
+                "confianza": 0.94,
+                "x_centro": 0.692879,
+                "y_centro": 0.467345,
+                "ancho": 0.0610329,
+                "alto": 0.120441
+            }
+        ]
+    }
+]
