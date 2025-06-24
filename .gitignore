@@ -3,3 +3,5 @@
 /imagenes/cargadas
 *.mp4
 /yolov5/runs/detect
+*.mp4
+/imagenes/ejemplos/videos resultado
